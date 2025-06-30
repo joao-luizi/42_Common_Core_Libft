@@ -99,4 +99,4 @@ int main(void)
 This project was an excellent opportunity to dive into the C language by rebuilding commonly used standard functions. Completing all bonuses gave me hands-on experience with data structures and helped solidify my understanding of memory management and abstraction in C.
 
 ## License
-This project is licensed under the [MIT License]().
+This project is licensed under the [MIT License](LICENSE).
